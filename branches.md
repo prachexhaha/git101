@@ -30,5 +30,10 @@ conflicts can arrise in a pull request if in the main and in the branch, there a
 it is up to the person who has access to the main branch to accept that pull request or not.
 conflicts are automatically checked by github 
 
+## Pull commands
+Once the branches have been merged on GitHub, we need to get those remote changes to our local system. and that can be done using pull command.
+
+1. `git pull origin main` : used to fetch and download content from a remote repo and immediately updated the local repo to match that content.
+
 
 (this markdown file was written in main)
