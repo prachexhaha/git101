@@ -25,6 +25,10 @@ There are 2 ways of merging branches :
     3. to merge - add a new message, make sure to double check the base branch and the branch that you currently are in on github.
 
 
+Whatever changes you make in main once you create a branch is not reflected in branch.
+conflicts can arrise in a pull request if in the main and in the branch, there are changes on the same line of code.
+it is up to the person who has access to the main branch to accept that pull request or not.
+conflicts are automatically checked by github 
 
 
 (this markdown file was written in main)
