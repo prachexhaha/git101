@@ -35,5 +35,7 @@ Once the branches have been merged on GitHub, we need to get those remote change
 
 1. `git pull origin main` : used to fetch and download content from a remote repo and immediately updated the local repo to match that content.
 
+important to first pull the changes from github and then make new changes to the file.
+
 
 (this markdown file was written in main)
