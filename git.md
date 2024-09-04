@@ -18,7 +18,8 @@
     - unmodified : unchanged
 ## Making changes to local repo
 1. **add command** - adds new or changed files in your working directory to the git staging area - `git add <file-name>`.
-2. **commit command** - it is the record of the change `git commit -m "some message"`, the `-m` is used to write a message.
+2. **commit command** - it is the record of the change `git commit -m "some message"`, the `-m` is used to write a message. 
+   (how to undo a commit?)
 3. to add all the files - `git add .` , all the files that have changes in them get added.
 4. after adding and committing these changes through terminal. you need to push the code to github to view the local repo content to remote repo - `git push origin main`. 
 5. TLDR, 
